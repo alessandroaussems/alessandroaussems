@@ -3,11 +3,11 @@ I'm Alessandro, developer :sunglasses: , based in [Lier, Belgium](https://www.go
 
 Currently I'm working @ [Noticed](https://noticed.be)
 
-My expertise is PHP development more specifically: [Drupal](https://www.drupal.org/) & [Laravel](https://laravel.com/), however I'am not shy of frontend, I also love working with [Vue.js](https://vuejs.org/) & Sass
+My expertise is PHP development more specifically: [Drupal](https://www.drupal.org/) & [Laravel](https://laravel.com/), however I'm not shy of frontend, I also love working with [Vue.js](https://vuejs.org/) & Sass
 
 To stay in the zone I love listening to music :musical_note:. My most played songs are also often played at the mainstage of a well known [festival](https://www.tomorrowland.com/global/) in Boom, Belgium :raised_hands:
 
-When I am not behind my computer I love to do some sports: cycling, running, fitness, football you name it! :muscle:
+When I'm not behind my computer I love to do some sports: cycling, running, fitness, football you name it! :muscle:
 
 To find out more about me visit my portfolio on [alessandroaussems.be](https://alessandroaussems.be)
 
