@@ -1,7 +1,7 @@
 ### Hi there! :wave:
-I'am Alessandro, developer :sunglasses: , based in [Lier, Belgium](https://www.google.com/maps/place/2500+Lier/@51.1193298,4.5392708,13z/data=!3m1!4b1!4m5!3m4!1s0x47c3fc63b318c329:0x6ae7fc52ac33a641!8m2!3d51.1302138!4d4.5715093).
+I'm Alessandro, developer :sunglasses: , based in [Lier, Belgium](https://www.google.com/maps/place/2500+Lier/@51.1193298,4.5392708,13z/data=!3m1!4b1!4m5!3m4!1s0x47c3fc63b318c329:0x6ae7fc52ac33a641!8m2!3d51.1302138!4d4.5715093).
 
-Currently I'am working @ [Noticed](https://noticed.be)
+Currently I'm working @ [Noticed](https://noticed.be)
 
 My expertise is PHP development more specifically: [Drupal](https://www.drupal.org/) & [Laravel](https://laravel.com/), however I'am not shy of frontend, I also love working with [Vue.js](https://vuejs.org/) & Sass
 
